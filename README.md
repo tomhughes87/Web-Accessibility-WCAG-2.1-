@@ -7,58 +7,6 @@ These are my notes from amazing the Web Content Accessibility Guidelines udemy c
 https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/
 
 
-**(Web Content Accessibility Guidelines)**
-
-**[What is it:](#_fvy02cq7ybp8)**
-
-**[Who is it for:](#_5hpxdxvts04u)**
-
-**[Conformancy:](#_x714wryqutuq)**
-
-**[Four Principles of accessibility: POUR](#_qlfhreb8wb85)**
-
-**[Each POUR principle has:](#_gn4flbvpf1rn)**
-
-**[Examples of codes:](#_camnjg2ssp2o)**
-
-**[Descriptive Page Tiles Examples:](#_kcjl2k4c33xp)**
-
-**[Page Language:](#_egla7ix49rxe)**
-
-**[Bypass Repeating Content:](#_kv5parqgdwj6)**
-
-**[Headings:](#_1l2ciovlvls) **
-
-**[Landmark Region tags:](#_srk144kgd619) **
-
-**[TabIndex:](#_b2apsbo64wzh) **
-
-**[Colour Contrast:](#_gdls3td6ojoz) **
-
-**[Images- Decorative & Descriptive:](#_rt1bxxkr8a8v) **
-
-**[Semantic Elements:](#_n4u7ri5rdwy9) **
-
-**[Keyboard & Mouse Focus:](#_h9y88ae3f507) **
-
-**[Link Text:](#_5z6vw7c1wqig) **
-
-**[Group related lists:](#_l0flu9p6oxnt) **
-
-**[Labels for inputs:](#_4crbeoprujjt) **
-
-**[Data Formats for inputs:](#_r4x80uzgnz8j) **
-
-**[Highlight "Required" fields:](#_kbo11qwgwc6c) **
-
-**[Grouping related inputs:](#_71uqrgdp5b0) **
-
-**[Inline error messages:](#_vkj4p5r2grir) **
-
-**[Inline error messages + Suggestions!:](#_jhdvz7kyu7wj) **
-
-**[Validation Summary:](#_dvrm2d3bqu2z) **
-
 ## **What is it:**
 
 The Web Content Accessibility Guidelines are part of a series of web accessibility guidelines published by the Web Accessibility Initiative of the World Wide Web Consortium, the main international standards organisation for the Internet.
