@@ -6,6 +6,11 @@ These are my notes from amazing the Web Content Accessibility Guidelines udemy c
 
 https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/
 
+## google doc
+
+Use this link to view the docuement in google docs:
+
+https://docs.google.com/document/d/1klGUGlwOV_pEUZlTYU3ZKDMTMkTem0H_5v0YH9oq1e4/edit?usp=sharing
 
 ## **What is it:**
 
@@ -34,10 +39,6 @@ Not only for the blind and visually impaired, also for people with learning diff
 **Robust** : The site can be used by assistive tech (screen readers, etc)
 
 ## **Each POUR principle has:**
-
-**Several success criteria** :
-
-**Sufficient techniques** :
 
 **Failure criteria** : ways to test content to see if it passes/ fails
 
